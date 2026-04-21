@@ -15,11 +15,10 @@ The fluxes graphed are:
 Resilience and Temporal Stability calculated in accordance with Hillebrand et al. 2018 article (https://doi.org/10.1111/ele.12867)
 these calculations utilize flux data from 2009 (year post-disturbance) to 2021 (the most recent data I pulled from Ameriflux in 2025)
 
-Resilience was calculated as the slope of the return to baseline post-disturbance
+Resilience = the slope of the return to baseline post-disturbance
+Temporal Stability = the variability in the return to baseline post-disturbance
 
-Temporal Stability was calculated as the variability in the return to baseline post-disturbance
+#OBJECTIVE 2 - Determining which Flux Drives Resilience, which Drives Temporal Stability
 
-#OBJECTIVE 2 - Determining which Flux Drives Resilience and which Drives Temporal Stability
-
-Correlated the log-ratios of the 
+Part 1: 
 
